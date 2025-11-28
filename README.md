@@ -55,3 +55,9 @@ Python’s built-in Timsort provides unmatched performance due to its hybrid and
 Complexity verification confirms that the empirical growth of execution time matches theoretical expectations:
 `O(n²)` for Insertion Sort and `O(n log n)` for Merge Sort and Timsort.
 For real-world applications, using `sorted()` or `.sort()` is strongly recommended.
+
+## Task 2
+Merge list of sorted lists into one list:
+```bash
+python sorting_benchmark.py
+```
